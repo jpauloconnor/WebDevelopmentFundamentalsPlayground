@@ -9,6 +9,20 @@ h1 {
 	color: red;
 	background: blue;
 }
+
+.css-statements{
+	border: 3px dotted black;
+}
+
+.css-uses{
+	border: 5px solid turquoise;
+	background: yellow;
+}
+
 .cat{
 	color: blue;
+}
+
+#dog{
+	color: orange;
 }
