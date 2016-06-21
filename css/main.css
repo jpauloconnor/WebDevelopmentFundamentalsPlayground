@@ -1,15 +1,10 @@
 /*     CSS Items     */
 
-body {
+body{
 	font-family: Arial;
 
 }
-/*
-h1 {
-	color: red;
-	background: blue;
-}
-*/
+
 
 /*   Nav Bar CSS    */
 
@@ -34,7 +29,7 @@ h1 {
 	background-color: #00ff00;
 }
 
-
+/* This code connects to the css playground */
 .css-statements{
 	border: 3px dotted black;
 }
@@ -52,6 +47,7 @@ h1 {
 	color: orange;
 }
 
+/* Smiley face */
 .face{
   width:75px;
   height:75px; 
@@ -95,7 +91,7 @@ h1 {
   background-color:black
 }
 
-#inner-right {
+#inner-right{
   width:2px;
   height:2px; 
   border:solid 1px white;
@@ -107,7 +103,7 @@ h1 {
   background-color:white
   
 }
-.mouth {
+.mouth{
   width:30px;
   height:10px; 
   border:solid 1px black;
@@ -149,12 +145,11 @@ h1 {
 }
 
 
-
-.projects {
+/* Bootstrap playground code */
+.projects{
     padding: 50px;
 	background-color: orange;
 }
-
 .project-box-1{
 	height: 300px;
 	background-color: blue;
@@ -165,40 +160,9 @@ h1 {
 }
 
 
-
-
-
-.project-box1 {
-    height: 300px;
-    background-color: red;
+/*  JS Playground */
+#my-age {
+  color: red;
 }
 
-.project-box2 {
-    height: 300px;
-    background-color: yellow;
-}
 
-.project-box3 {
-    height: 300px;
-    background-color: green;
-}
-
-.project-box4 {
-    height: 300px;
-    background-color: blue;
-}
-
-.project-box5 {
-    height: 300px;
-    background-color: red;
-}
-
-.project-box6 {
-    height: 300px;
-    background-color: white;
-}
-  
-  
-
-
-/*
