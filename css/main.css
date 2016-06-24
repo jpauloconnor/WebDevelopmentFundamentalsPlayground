@@ -234,6 +234,16 @@ body{
 
 
 /* Bootstrap playground code */
+
+#asterisk{
+  height: 300px;
+  width: 300px;
+}
+.glyphicon.glyphicon-asterisk {
+    font-size: 75px;
+}
+
+
 .projects{
     padding: 50px;
 	background-color: orange;
