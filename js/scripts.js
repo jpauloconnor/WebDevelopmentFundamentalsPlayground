@@ -297,7 +297,7 @@ var rabbit = Object.create(animal);
 rabbit.ears = "Huge";
 console.log(rabbit.ears);
 
-
+//Create a cow object with two new properties and a new function
 
 
 
